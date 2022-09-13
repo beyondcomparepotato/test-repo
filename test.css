@@ -1,0 +1,6 @@
+header {
+    display: inline-flex;
+    background-color: #999;
+    text-align: center;
+    pointer-events: none;
+}
