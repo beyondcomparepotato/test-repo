@@ -105,5 +105,5 @@ class Product {
     }
 }
 
-const macbook = new Product("MacBook Pro 2022", 1999);
+const macbook = new Product("MacBook Pro 2022", 2099);
 product.innerHTML = `${macbook.product} $${macbook.price}`;
