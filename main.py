@@ -26,7 +26,3 @@ def check_winner(player, computer):
             return "Okay, you won, it's great"
         else:
             return "Computer sucks OMG!"
-
-choices = get_choices()
-result = check_winner(choices["player"], choices["computer"])
-print(result)
